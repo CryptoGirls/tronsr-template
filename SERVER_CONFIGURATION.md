@@ -1,18 +1,14 @@
-For the main node our server are expected to have the following configuration:
+Our servers configuration before 26th June:
 
-24 cores/48 threads 256GB RAM 2x4TB 25Gbps Network located in Germany
+- Main node: 24 cores/48 threads 256GB RAM 2x4TB 25Gbps Network located in Germany
 
-For the backup node we planned the following configuration:
+- Backup node: 16 cores/32 threads 128GB RAM 2x2TB 25Gbps Network located in Germany
 
-16 cores/32 threads 128GB RAM 2x2TB 25Gbps Network located in Germany
-
-Also, we have a running testable node with the following configuration:
-
-4 cores 6GB RAM 30GB SSD 10Gbps Network</strong> located in United Kingdom
+- Testable node: 4 cores 6GB RAM 30GB SSD 10Gbps Network</strong> located in United Kingdom
 
 During the first month of producing blocks as a TRON SR, CryptoGirls will comply with the recommended configuration of the main and backup servers:
 
-2 X Aws x1.16xlarge 64 cores 1T RAM 1T SSD 25Gbps Network
+- 2 X Aws x1.16xlarge 64 cores 1T RAM 1T SSD 25Gbps Network
 
 As well, to ensure security and stability our servers will have failover scripts and Anti-DdoS.
 
