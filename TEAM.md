@@ -1,11 +1,11 @@
-<h3>Founder</h3>
+## Founder
 
 Irina Iftimie
 
 In TRON SR Irina’s main role is to take care of our servers from purchasing, installing, securing them to periodic maintenance and analyzing new possible configurations and optimizations for continuous expansion.
 
 
-<h3>Front-end & Mobile Developer & UI/UX Designer</h3>
+## Front-end & Mobile Developer & UI/UX Designer
 
 Diana Miron
 
@@ -13,7 +13,7 @@ In TRON SR Diana is in charge with design and maintaining our sites up-to-date.
 
 
 
-<h3>Business Strategist & Marketing Manager</h3>
+## Business Strategist & Marketing Manager
 
 Alina Bejan
 
@@ -21,7 +21,7 @@ For TRON SR Alina's main roles are to develop our strategies as a team and to ta
 
 
 
-<h3>Advisor & Investor</h3>
+## Advisor & Investor
 
 Adrian Iftimie
 
@@ -29,7 +29,7 @@ As an advisor and investor of CryptoGirls team, Adrian is in charge of coordinat
 
 
 
-<h3>Partner & Event Manager</h3>
+## Partner & Event Manager
 
 Liviu Cadariu
 
