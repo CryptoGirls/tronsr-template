@@ -1,5 +1,5 @@
-CryptoGirls is planning to support TRON community by donating 50% of the total rewards as follows:
-- 45% directly to our voters
+CryptoGirls is planning to support TRON community by donating 75% of the total rewards as follows:
+- 70% directly to our voters
 - 2.5% for initiatives that come in need for the TRON project and community such as organizing livestreams and meetups, developing useful tools for the project and other contributions regarding TRON
 - 2.5% for organizing our own meetups and hackathons.
 
