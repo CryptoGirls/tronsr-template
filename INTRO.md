@@ -6,22 +6,21 @@ Our portfolio includes software products developed in various fields of activity
 
 We are involved in several DPOS crypto projects as developers, investors and delegates. Our missions as TRON SR are to support growth of the TRON community by organizing meetups and hackathons, spread the word about TRON in Romania and not only and expand our contribution in crypto based on our skills and experience.
 
-### ACHIVEMENTS SO FAR
+#### ACHIVEMENTS SO FAR
 
 First TRON Meetup in Romania: https://www.youtube.com/watch?v=wbCX6gkdIFs
+
 Automatic payments script for our voters' rewards: https://github.com/CryptoGirls/trx-pool
 
-### SOCIAL MEDIA CHANNELS
+#### SOCIAL MEDIA CHANNELS
 
 - Website: https://www.cryptogirls.ro
 - Twitter: https://twitter.com/girls_crypto
 - Telegram: https://t.me/CryptoGirlsRo
 - Facebook: https://www.facebook.com/CryptoGirlsRo/
 
-### INTERVIEW
-
+Interview with Tron.Live
 https://tron.live/an-interview-with-tronsr-cryptogirls/
 
-### TRONSR PROPOSAL
-
+More about our TRONSR campaign candidature
 https://tronsr.org/index.php?p=/discussion/375/cryptogirls-to-run-for-tron-super-representatives
