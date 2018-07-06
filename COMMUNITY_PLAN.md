@@ -8,3 +8,5 @@ These percentages will be periodically reviewed based on TRON price. We will be 
 Furthermore, we plan to integrate the most important events and stats regarding TRON into a complete dashboard fully open within the community where people can track the most important TRON metrics such as ranks, votes, pools and many more.
 
 As for the local and international community, CryptoGirls will invest in organizing events, meetups, workshops for developers to increase the awareness of blockchain technology in Romania and Europe and to further develop tools and applications to help and grow the industry.
+
+Here is a recap of our first TRON event in Romania: https://www.youtube.com/watch?v=wbCX6gkdIFs
