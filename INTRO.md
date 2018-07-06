@@ -1,4 +1,4 @@
-### ABOUT US
+#### ABOUT US
 
 With over 6 years experience in application, mobile and enterprise development, CryptoGirls is a young and dynamic team of developers and business strategists located in Bucharest, Romania.
 
