@@ -21,7 +21,7 @@ Automatic payments script for our voters' rewards: https://github.com/CryptoGirl
 - Telegram: https://t.me/CryptoGirlsRo
 - Facebook: https://www.facebook.com/CryptoGirlsRo/
 - Reddit: https://www.reddit.com/user/CryptoGirlsRo
-- Girhub: https://www.reddit.com/user/CryptoGirlsRo
+- Github: https://github.com/CryptoGirls
 - Youtube: https://www.youtube.com/channel/UCqKVnuRyJaC6oWfkghFWBSw
 
 Interview with Tron.Live
