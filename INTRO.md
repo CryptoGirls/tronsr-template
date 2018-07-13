@@ -19,7 +19,7 @@ We are involved in several DPOS crypto projects as developers, investors and del
   
   Here voters can check their pending rewards at the end of the voting rounds (every 6 hours): https://www.cryptogirls.ro/stats.html
   
-  Payments will be made every 24 hours!
+  Payments will be made every day!
 
 - Interviewed by Tron.Live: https://tron.live/an-interview-with-tronsr-cryptogirls/
 
