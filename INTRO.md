@@ -16,6 +16,10 @@ We are involved in several DPOS crypto projects as developers, investors and del
 - Successfully started mainnet TRON network on the first two rehearsals as GR
 
 - Developed and implemented our own automatic payments script open-source for calculating rewards and broadcasting payments to our voters: https://github.com/CryptoGirls/trx-pool
+  
+  Here voters can check their pending rewards at the end of the voting rounds (every 6 hours): https://www.cryptogirls.ro/stats.html
+  
+  Payments will be made every 24 hours!
 
 - Interviewed by Tron.Live: https://tron.live/an-interview-with-tronsr-cryptogirls/
 
