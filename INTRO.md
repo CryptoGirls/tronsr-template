@@ -9,15 +9,15 @@ We are involved in several DPOS crypto projects as developers, investors and del
 
 ##### ACHIVEMENTS SO FAR
 
-> Organized first TRON Meetup in Romania: https://www.youtube.com/watch?v=wbCX6gkdIFs
+- Organized first TRON Meetup in Romania: https://www.youtube.com/watch?v=wbCX6gkdIFs
 
-> Succesfully set up failover script on multiple servers on main and test networks
+- Succesfully set up failover script on multiple servers on main and test networks
 
-> Successfully started mainnet TRON network on the first two rehearsals as GR
+- Successfully started mainnet TRON network on the first two rehearsals as GR
 
-> Developed and implemented our own automatic payments script open-source for calculating rewards and broadcasting payments to our voters: https://github.com/CryptoGirls/trx-pool
+- Developed and implemented our own automatic payments script open-source for calculating rewards and broadcasting payments to our voters: https://github.com/CryptoGirls/trx-pool
 
-> Interviewed by Tron.Live: https://tron.live/an-interview-with-tronsr-cryptogirls/
+- Interviewed by Tron.Live: https://tron.live/an-interview-with-tronsr-cryptogirls/
 
 More to come!
 
