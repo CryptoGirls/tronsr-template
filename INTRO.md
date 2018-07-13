@@ -9,7 +9,7 @@ We are involved in several DPOS crypto projects as developers, investors and del
 
 ##### ACHIVEMENTS SO FAR
 
-:heavy_check_mark: First TRON Meetup in Romania: https://www.youtube.com/watch?v=wbCX6gkdIFs
+:heavy_check_mark: Organized first TRON Meetup in Romania: https://www.youtube.com/watch?v=wbCX6gkdIFs
 
 :heavy_check_mark: Succesfully set up failover script on multiple servers on main and test networks
 
