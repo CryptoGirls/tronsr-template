@@ -11,13 +11,13 @@ We are involved in several DPOS crypto projects as developers, investors and del
 
 :heavy_check_mark: First TRON Meetup in Romania: https://www.youtube.com/watch?v=wbCX6gkdIFs
 
-:heavy_check_mark: Tested failover script on multiple servers on main and test networks
+:heavy_check_mark: Succesfully set up failover script on multiple servers on main and test networks
 
-:heavy_check_mark: Participated on the first two TRON’s mainnet network rehearsals as GR
+:heavy_check_mark: Successfully started mainnet TRON network on the first two rehearsals as GR
 
-:heavy_check_mark: Developed our own automatic payments script open-source for calculating rewards and broadcasting payments to our voters: https://github.com/CryptoGirls/trx-pool
+:heavy_check_mark: Developed and implemented our own automatic payments script open-source for calculating rewards and broadcasting payments to our voters: https://github.com/CryptoGirls/trx-pool
 
-:heavy_check_mark: Interview with Tron.Live: https://tron.live/an-interview-with-tronsr-cryptogirls/
+:heavy_check_mark: Interviewed by Tron.Live: https://tron.live/an-interview-with-tronsr-cryptogirls/
 
 More to come!
 
