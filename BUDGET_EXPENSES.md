@@ -2,7 +2,7 @@ Our expenditure budget before 26th June was 21k$, which includes hardware expens
 
 Beginning with 26th June our rewards distribution is as follows:
 - 70% Rewards to our voters - daily payments made through our own developed script open-source for everyone to use: https://github.com/CryptoGirls/trx-pool
-  
+
   Here voters can check their pending rewards at the end of the voting rounds (every 6 hours): https://www.cryptogirls.ro/stats.html
 
   Payments will be made every day!
