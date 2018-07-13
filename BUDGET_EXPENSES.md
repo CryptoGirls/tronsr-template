@@ -1,7 +1,7 @@
 Our expenditure budget before 26th June was 21k$, which includes hardware expenses for testable and main nodes, administration and organizing our first meetup.
 
 After 26th June we planned our rewards distribution as follows:
-- 70% Rewards to our voters
+- 70% Rewards to our voters - daily payments made through our own developed script open-source for everyone to use: https://github.com/CryptoGirls/trx-pool
 - 10% Servers cost & Maintanance
 - 15% Administration (Team funds, legal expenses and other costs)
 - 2.5% Community projects
