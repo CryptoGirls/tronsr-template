@@ -9,9 +9,17 @@ We are involved in several DPOS crypto projects as developers, investors and del
 
 ##### ACHIVEMENTS SO FAR
 
-First TRON Meetup in Romania: https://www.youtube.com/watch?v=wbCX6gkdIFs
+:heavy_check_mark: First TRON Meetup in Romania: https://www.youtube.com/watch?v=wbCX6gkdIFs
 
-Automatic payments script for our voters' rewards: https://github.com/CryptoGirls/trx-pool
+:heavy_check_mark: Tested failover script on multiple servers on main and test networks
+
+:heavy_check_mark: Participated on the first two TRON’s mainnet network rehearsals as GR
+
+:heavy_check_mark: Developed our own automatic payments script open-source for calculating rewards and broadcasting payments to our voters: https://github.com/CryptoGirls/trx-pool
+
+:heavy_check_mark: Interview with Tron.Live: https://tron.live/an-interview-with-tronsr-cryptogirls/
+
+More to come!
 
 
 ##### SOCIAL MEDIA CHANNELS
@@ -24,8 +32,7 @@ Automatic payments script for our voters' rewards: https://github.com/CryptoGirl
 - Github: https://github.com/CryptoGirls
 - Youtube: https://www.youtube.com/channel/UCqKVnuRyJaC6oWfkghFWBSw
 
-Interview with Tron.Live
-https://tron.live/an-interview-with-tronsr-cryptogirls/
+
 
 More about our TRONSR campaign candidature
 https://tronsr.org/index.php?p=/discussion/375/cryptogirls-to-run-for-tron-super-representatives
