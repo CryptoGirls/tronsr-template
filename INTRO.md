@@ -33,6 +33,7 @@ More to come!
 - Telegram: https://t.me/CryptoGirlsRo
 - Facebook: https://www.facebook.com/CryptoGirlsRo/
 - Reddit: https://www.reddit.com/user/CryptoGirlsRo
+- Instagram: https://www.instagram.com/cryptogirls_romania/
 - Github: https://github.com/CryptoGirls
 - Youtube: https://www.youtube.com/channel/UCqKVnuRyJaC6oWfkghFWBSw
 
