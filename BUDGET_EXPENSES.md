@@ -6,7 +6,7 @@ Beginning with 26th June our rewards distribution is as follows:
   Here voters can check their pending rewards at the end of the voting rounds (every 6 hours): https://www.cryptogirls.ro/stats.html
 
   Payments will be made every day!
-- 10% Servers cost & Maintanance
+- 10% Servers cost & Maintenance
 - 15% Administration (Team funds, legal expenses and other costs)
 - 2.5% Community projects
 - 2.5% Organising our events
