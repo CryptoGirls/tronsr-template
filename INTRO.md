@@ -20,6 +20,8 @@ We are involved in several DPOS crypto projects as developers, investors and del
   Here voters can check their pending rewards at the end of the voting rounds (every 6 hours): https://www.cryptogirls.ro/stats.html
   
   Payments will be made every day!
+  
+- Developed other 4 versions of airdrop scripts for TRX and tokens: https://github.com/CryptoGirls
 
 - Interviewed by Tron.Live: https://tron.live/an-interview-with-tronsr-cryptogirls/
 
